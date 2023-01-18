@@ -1,7 +1,7 @@
 # Entertaner-Data-Analysis
 Hello all,
 
-My name is Sahil Parmar, Data Analyst intern at iNeuron.ai. My project is about "Entertainer Data Analysis".
+My name is Dhiraj Goud, Data Analyst intern at iNeuron.ai. My project is about "Entertainer Data Analysis".
 
 Given dataset: https://drive.google.com/drive/folders/1sJm4vy-qfuk3CFgE_zMMPGVYFmoIg35n
 
