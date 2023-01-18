@@ -24,3 +24,9 @@ Entertainers with mega awards
 Top 10 entertainers
 
 Individual Analysis
+
+Link to the Dashboard 1:https://public.tableau.com/app/profile/dhiraj.goud/viz/EntertainersAnalysis/Dashboard1
+
+Link to the Dashboard 2:https://public.tableau.com/app/profile/dhiraj.goud/viz/EntertainersAnalysis/Dashboard2
+
+Required Documents are uploaded i.e. HLD, LLD, Wireframe, Architecture and Detail Projcet Report.
